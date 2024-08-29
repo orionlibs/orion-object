@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.orionlibs</groupId>
     <artifactId>orion-object</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>Orion Object</name>
     <description>Java object manipulation library</description>
     <url>https://github.com/orionlibs/orion-object</url>
@@ -223,4 +223,13 @@
             <url>https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/</url>
         </repository>
     </distributionManagement>
+
+
+    <dependencies>
+        <dependency>
+            <groupId>io.github.orionlibs</groupId>
+            <artifactId>orion-enumeration</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+    </dependencies>
 </project>
