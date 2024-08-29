@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.orionlibs</groupId>
     <artifactId>orion-object</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <name>Orion Object</name>
     <description>Java object manipulation library</description>
     <url>https://github.com/orionlibs/orion-object</url>
